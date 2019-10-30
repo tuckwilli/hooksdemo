@@ -1,3 +1,5 @@
+# Demo notes with a link to the article are at demo.md
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
